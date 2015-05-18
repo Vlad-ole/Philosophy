@@ -38,7 +38,7 @@
 \begin{document}
 \include{title}
 
-\renewcommand\refname{Список цитируемых работ}
+\renewcommand\refname{\centering СПИСОК ЛИТЕРАТУРЫ}
 
 \tableofcontents
 

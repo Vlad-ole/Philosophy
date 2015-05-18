@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  12 MAY 2015 00:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  17 MAY 2015 18:09
 entering extended mode
 **F:/git_repositories/Philosophy/library-research_paper/Latex/main.tex
 (F:/git_repositories/Philosophy/library-research_paper/Latex/main.tex
@@ -512,37 +512,56 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 [2
 
 ] [3]
-Overfull \hbox (1.2944pt too wide) in paragraph at lines 59--60
+Overfull \hbox (1.2944pt too wide) in paragraph at lines 58--59
 [][]\T2A/cmr/m/n/12  атолическа€ цер-ковь упор-но про-ти-ви-лась воз-рож-де-нию
  ато-ми-сти-че-ских пред-
  []
 
 [4]
-Overfull \hbox (17.43842pt too wide) in paragraph at lines 65--66
+Overfull \hbox (17.43842pt too wide) in paragraph at lines 64--65
 \T2A/cmr/m/n/12 ле-ни€ раз-ви-ва-ли та-кие вы-да-ю-щи-е-с€ мыс-ли-те-ли, как Ќи
 -ко-лай  у-зан-ский (14011464),
  []
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-Overfull \hbox (10.59418pt too wide) in paragraph at lines 195--196
+Overfull \hbox (10.59418pt too wide) in paragraph at lines 194--195
 [][]\T2A/cmr/m/n/12 ѕока шло тео-ре-ти-зи-ро-ва-ние во-круг ан-ти-ча-стиц, мо-л
 о-дой физик-экспериментатор
  []
 
 [18]
-Overfull \hbox (27.72546pt too wide) in paragraph at lines 201--202
+Overfull \hbox (27.72546pt too wide) in paragraph at lines 200--201
 \T2A/cmr/m/n/12 ны уже в ла-бо-ра-тор-ных усло-ви-€х  на уско-ри-те-л€х. —е-го
 -дн€ физики-экспериментаторы
  []
 
 [19] [20] [21] [22]
-Overfull \hbox (17.77505pt too wide) in paragraph at lines 234--235
+Overfull \hbox (17.77505pt too wide) in paragraph at lines 233--234
 [][]\T2A/cmr/m/n/12 Ѕолее то-го, ха-рак-тер вза-и-мо-дей-стви€ обу-слов-лен фи-
 зи-че-ски-ми свой-ства-ми частиц-
  []
 
 [23]) [24] [25]
-(F:\git_repositories\Philosophy\library-research_paper\Latex\bibliography.tex)
+(F:\git_repositories\Philosophy\library-research_paper\Latex\bibliography.tex
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
 [26
 
 
@@ -552,10 +571,10 @@ Overfull \hbox (17.77505pt too wide) in paragraph at lines 234--235
 (F:\git_repositories\Philosophy\library-research_paper\Latex\bibliography.aux))
  ) 
 Here is how much of TeX's memory you used:
- 4544 strings out of 493921
- 59007 string characters out of 3150556
- 128226 words of memory out of 3000000
- 7665 multiletter control sequences out of 15000+200000
+ 4538 strings out of 493921
+ 58827 string characters out of 3150556
+ 128196 words of memory out of 3000000
+ 7659 multiletter control sequences out of 15000+200000
  16091 words of font info for 44 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  28i,6n,28p,1547b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -568,7 +587,7 @@ fb><C:/Latex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Latex/
 Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Latex/Full_TeX/texm
 f/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Latex/Full_TeX/texmf/fonts/type1
 /public/cm-super/sfti1200.pfb>
-Output written on main.pdf (27 pages, 239829 bytes).
+Output written on main.pdf (27 pages, 241780 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
