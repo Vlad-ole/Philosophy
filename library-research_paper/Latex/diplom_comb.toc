@@ -1,3 +1,0 @@
-\select@language {russian}
-\contentsline {section}{\numberline {1.\hskip .5em\relax }Введение}{2}
-\contentsline {section}{\numberline {2.\hskip .5em\relax }Заключение}{3}
